@@ -10,6 +10,7 @@ namespace the_basics_of_GIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!");
         }
     }
 }
